@@ -1,0 +1,17 @@
+{
+  "name": "nombre-del-proyecto",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+  "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "puppeteer": "^23.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-puppeteer": "^10.0.1"
+  }
+  
+}
