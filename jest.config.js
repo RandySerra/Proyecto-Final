@@ -4,3 +4,9 @@ module.exports = {
   verbose: true,
 };
 
+module.exports = {
+  launch: {
+    headless: true, 
+  },
+ 
+};
